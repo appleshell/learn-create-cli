@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "bin": {
-    "suyan-cli": "./index.js"
+    "learn-cli": "./index.js"
   },
   "author": "",
   "license": "ISC",

@@ -1,12 +1,14 @@
 {
-  "name": "suyan-cli",
+  "name": "learn-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "learn to build a cli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "cli"
+  ],
   "bin": {
     "learn-cli": "./index.js"
   },
